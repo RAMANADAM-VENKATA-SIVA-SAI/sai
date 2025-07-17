@@ -21,7 +21,7 @@ import {
 // Personal Information
 const PERSONAL_INFO = {
   name: "Ramanadam Venkata Siva Sai",
-  title: "Computer Science Graduate | Python Developer | Data Analyst",
+  title: "Computer Science Graduate | Web Developer | Data Analyst",
   email: "sairamanadam.mca@gmail.com",
   phone: "+91 9908881764",
   location: "Ipurupalem, Chirala, Andhra Pradesh",
